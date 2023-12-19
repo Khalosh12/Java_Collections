@@ -1,0 +1,39 @@
+
+9
+java:S1700"Rename field "priorityQueue"(–òìé8™˜ÓÈ1
+T
+java:S3958*"2Refactor the code so this stream pipeline is used.(¤ï¹õùÿÿÿÿ8µ˜ÓÈ1
+G	java:S106"+Replace this use of System.out by a logger.(ì±£­8¾˜ÓÈ1
+F	java:S106"+Replace this use of System.out by a logger.(şÑ8À˜ÓÈ1
+G	java:S106"+Replace this use of System.out by a logger.(…”Ö8Â˜ÓÈ1
+L	java:S106"+Replace this use of System.out by a logger.(é¿ÿˆûÿÿÿÿ8Ã˜ÓÈ1
+L	java:S106&"+Replace this use of System.out by a logger.(ƒÒ‹ıÿÿÿÿ8Ç˜ÓÈ1
+W
+java:S1854*"5Remove this useless assignment to local variable "b".(¤ï¹õùÿÿÿÿ8Ç˜ÓÈ1
+H
+java:S1481*"&Remove this unused "b" local variable.(¤ï¹õùÿÿÿÿ8É˜ÓÈ1
+G	java:S106+"+Replace this use of System.out by a logger.(È•Óã8É˜ÓÈ1
+W
+java:S1854/"5Remove this useless assignment to local variable "b".(’«ßëşÿÿÿÿ8É˜ÓÈ1
+H
+java:S1481/"&Remove this unused "b" local variable.(’«ßëşÿÿÿÿ8Ë˜ÓÈ1
+F	java:S1060"+Replace this use of System.out by a logger.(ŠÖòa8Ë˜ÓÈ1
+G	java:S1065"+Replace this use of System.out by a logger.(¼Í¤©8Í˜ÓÈ1
+R
+java:S18549"5Remove this useless assignment to local variable "b".(àª‹8Î˜ÓÈ1
+C
+java:S14819"&Remove this unused "b" local variable.(àª‹8Ï˜ÓÈ1
+G	java:S106:"+Replace this use of System.out by a logger.(´ûÅ˜8Ï˜ÓÈ1
+R
+java:S1854>"5Remove this useless assignment to local variable "b".(ªÓ—ş8Ğ˜ÓÈ1
+C
+java:S1481>"&Remove this unused "b" local variable.(ªÓ—ş8Ñ˜ÓÈ1
+L	java:S106?"+Replace this use of System.out by a logger.(à¶Âêúÿÿÿÿ8Ñ˜ÓÈ1
+R
+java:S1854C"5Remove this useless assignment to local variable "b".(«éù—8Ò˜ÓÈ1
+C
+java:S1481C"&Remove this unused "b" local variable.(«éù—8Ó˜ÓÈ1
+L	java:S106D"+Replace this use of System.out by a logger.(ˆ²¿êÿÿÿÿÿ8Ó˜ÓÈ1
+L	java:S106I"+Replace this use of System.out by a logger.(İ–‹üÿÿÿÿ8Õ˜ÓÈ1
+L	java:S106N"+Replace this use of System.out by a logger.(Ùºòúÿÿÿÿ8×˜ÓÈ1
+L	java:S106O"+Replace this use of System.out by a logger.(ä§ƒâşÿÿÿÿ8Ø˜ÓÈ1

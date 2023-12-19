@@ -1,0 +1,37 @@
+
+3
+java:S1700	"Rename field "treeSet"(Æàö”8¢ÁÕÈ1
+G	java:S106"+Replace this use of System.out by a logger.(¯´¿°8íÁÕÈ1
+L	java:S106"+Replace this use of System.out by a logger.(æõúÛüÿÿÿÿ8ôÁÕÈ1
+L	java:S106"+Replace this use of System.out by a logger.(º¹¥øÿÿÿÿ8øÁÕÈ1
+G	java:S106 "+Replace this use of System.out by a logger.(ı…ª8ıÁÕÈ1
+L	java:S106&"+Replace this use of System.out by a logger.(³óöåıÿÿÿÿ8€ÂÕÈ1
+W
+java:S1854*"5Remove this useless assignment to local variable "b".(Û’×Öşÿÿÿÿ8ÂÕÈ1
+H
+java:S1481*"&Remove this unused "b" local variable.(Û’×Öşÿÿÿÿ8‚ÂÕÈ1
+L	java:S106+"+Replace this use of System.out by a logger.(ÕÔøöùÿÿÿÿ8ƒÂÕÈ1
+R
+java:S1854/"5Remove this useless assignment to local variable "b".(±ŞÌ8„ÂÕÈ1
+C
+java:S1481/"&Remove this unused "b" local variable.(±ŞÌ8…ÂÕÈ1
+G	java:S1060"+Replace this use of System.out by a logger.(£ğ¢‡8…ÂÕÈ1
+G	java:S1066"+Replace this use of System.out by a logger.(êš¦8ŠÂÕÈ1
+Q
+java:S1854:"5Remove this useless assignment to local variable "b".(şÀÔQ8‹ÂÕÈ1
+B
+java:S1481:"&Remove this unused "b" local variable.(şÀÔQ8ÂÕÈ1
+G	java:S106;"+Replace this use of System.out by a logger.(ÜÙÕˆ8ÂÕÈ1
+R
+java:S1854?"5Remove this useless assignment to local variable "b".(Ê‡Æ’8ÂÕÈ1
+C
+java:S1481?"&Remove this unused "b" local variable.(Ê‡Æ’8“ÂÕÈ1
+L	java:S106@"+Replace this use of System.out by a logger.(±’ÂÑşÿÿÿÿ8“ÂÕÈ1
+W
+java:S1854D"5Remove this useless assignment to local variable "b".(›¤ö´ÿÿÿÿÿ8”ÂÕÈ1
+H
+java:S1481D"&Remove this unused "b" local variable.(›¤ö´ÿÿÿÿÿ8–ÂÕÈ1
+L	java:S106E"+Replace this use of System.out by a logger.(ÉÙÆ‰ıÿÿÿÿ8—ÂÕÈ1
+G	java:S106J"+Replace this use of System.out by a logger.(¾Î¦ú8œÂÕÈ1
+G	java:S106O"+Replace this use of System.out by a logger.(İ¶–¾8ŸÂÕÈ1
+L	java:S106P"+Replace this use of System.out by a logger.(ä§ƒâşÿÿÿÿ8ŸÂÕÈ1

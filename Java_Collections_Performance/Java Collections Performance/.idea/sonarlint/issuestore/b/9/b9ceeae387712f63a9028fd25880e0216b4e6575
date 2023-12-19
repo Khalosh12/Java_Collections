@@ -1,0 +1,43 @@
+
+>
+java:S1700	"Rename field "linkedHashSet"(œÎ´¥ÿÿÿÿÿ8Å”ÎÈ1
+r
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ˆîõîıÿÿÿÿ8İ”ÎÈ1
+G	java:S106"+Replace this use of System.out by a logger.(¶ú¡œ8æ”ÎÈ1
+]
+java:S1854";Remove this useless assignment to local variable "readNum".(ˆîõîıÿÿÿÿ8è”ÎÈ1
+N
+java:S1481",Remove this unused "readNum" local variable.(ˆîõîıÿÿÿÿ8ê”ÎÈ1
+L	java:S106"+Replace this use of System.out by a logger.(Öö»šûÿÿÿÿ8ê”ÎÈ1
+L	java:S106"+Replace this use of System.out by a logger.(–ãÜëøÿÿÿÿ8ì”ÎÈ1
+L	java:S106 "+Replace this use of System.out by a logger.(–Âø–úÿÿÿÿ8î”ÎÈ1
+L	java:S106&"+Replace this use of System.out by a logger.(½ˆ‘ğøÿÿÿÿ8ñ”ÎÈ1
+W
+java:S1854*"5Remove this useless assignment to local variable "b".(µ¿¨—ıÿÿÿÿ8ò”ÎÈ1
+H
+java:S1481*"&Remove this unused "b" local variable.(µ¿¨—ıÿÿÿÿ8ó”ÎÈ1
+L	java:S106+"+Replace this use of System.out by a logger.(Î™ışÿÿÿÿ8ó”ÎÈ1
+R
+java:S1854/"5Remove this useless assignment to local variable "b".(¨ùš¹8ô”ÎÈ1
+C
+java:S1481/"&Remove this unused "b" local variable.(¨ùš¹8õ”ÎÈ1
+F	java:S1060"+Replace this use of System.out by a logger.(“»ï38õ”ÎÈ1
+L	java:S1065"+Replace this use of System.out by a logger.(üÈôÄüÿÿÿÿ8÷”ÎÈ1
+Q
+java:S18549"5Remove this useless assignment to local variable "b".(ÜãÈ8ø”ÎÈ1
+B
+java:S14819"&Remove this unused "b" local variable.(ÜãÈ8ù”ÎÈ1
+G	java:S106:"+Replace this use of System.out by a logger.(¸¨¾8ú”ÎÈ1
+W
+java:S1854?"5Remove this useless assignment to local variable "b".(Ç¨ù­ıÿÿÿÿ8ú”ÎÈ1
+H
+java:S1481?"&Remove this unused "b" local variable.(Ç¨ù­ıÿÿÿÿ8û”ÎÈ1
+L	java:S106@"+Replace this use of System.out by a logger.(«÷ï¤şÿÿÿÿ8ü”ÎÈ1
+W
+java:S1854D"5Remove this useless assignment to local variable "b".(İ°’üÿÿÿÿ8ü”ÎÈ1
+H
+java:S1481D"&Remove this unused "b" local variable.(İ°’üÿÿÿÿ8ı”ÎÈ1
+L	java:S106E"+Replace this use of System.out by a logger.(•òî‰ıÿÿÿÿ8ş”ÎÈ1
+G	java:S106J"+Replace this use of System.out by a logger.(¼¨‚°8ÿ”ÎÈ1
+L	java:S106O"+Replace this use of System.out by a logger.(ŠßÑüÿÿÿÿ8‚•ÎÈ1
+L	java:S106P"+Replace this use of System.out by a logger.(ä§ƒâşÿÿÿÿ8ƒ•ÎÈ1

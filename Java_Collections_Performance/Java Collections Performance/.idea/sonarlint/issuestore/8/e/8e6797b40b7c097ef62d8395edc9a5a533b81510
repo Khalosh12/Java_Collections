@@ -1,0 +1,35 @@
+
+6
+java:S1700	"Rename field "arrayDeque"(Ã¾†Ó8¦½È1
+O
+java:S39581"2Refactor the code so this stream pipeline is used.(­â¿È8½¦½È1
+L	java:S106"+Replace this use of System.out by a logger.(ùæù‰øÿÿÿÿ8ä§½È1
+L	java:S106"+Replace this use of System.out by a logger.(×Óâûÿÿÿÿ8è§½È1
+G	java:S106"+Replace this use of System.out by a logger.(¸Õ•”8ê§½È1
+G	java:S106%"+Replace this use of System.out by a logger.(ğûè›8î§½È1
+G	java:S106,"+Replace this use of System.out by a logger.(öù²š8õ§½È1
+L	java:S1062"+Replace this use of System.out by a logger.(“ù´²ÿÿÿÿÿ8ù§½È1
+R
+java:S18547"5Remove this useless assignment to local variable "b".(®ş·ì8…¨½È1
+C
+java:S14817"&Remove this unused "b" local variable.(®ş·ì8‡¨½È1
+G	java:S1068"+Replace this use of System.out by a logger.(÷£ÃÃ8ˆ¨½È1
+L	java:S106>"+Replace this use of System.out by a logger.(ğ²ä«şÿÿÿÿ8•¨½È1
+W
+java:S1854C"5Remove this useless assignment to local variable "b".(‰â¾Êúÿÿÿÿ8–¨½È1
+H
+java:S1481C"&Remove this unused "b" local variable.(‰â¾Êúÿÿÿÿ8š¨½È1
+G	java:S106D"+Replace this use of System.out by a logger.(ş»°¥8›¨½È1
+W
+java:S1854I"5Remove this useless assignment to local variable "b".(½¦‡Êıÿÿÿÿ8¨½È1
+H
+java:S1481I"&Remove this unused "b" local variable.(½¦‡Êıÿÿÿÿ8Ÿ¨½È1
+L	java:S106J"+Replace this use of System.out by a logger.(óëÅ·úÿÿÿÿ8 ¨½È1
+R
+java:S1854P"5Remove this useless assignment to local variable "b".(Í˜­•8¡¨½È1
+C
+java:S1481P"&Remove this unused "b" local variable.(Í˜­•8¤¨½È1
+L	java:S106Q"+Replace this use of System.out by a logger.(¬ˆ‘Çÿÿÿÿÿ8³¨½È1
+G	java:S106W"+Replace this use of System.out by a logger.(¶äÕ8º¨½È1
+L	java:S106]"+Replace this use of System.out by a logger.(µãÑ×ûÿÿÿÿ8Ã¨½È1
+L	java:S106^"+Replace this use of System.out by a logger.(ä§ƒâşÿÿÿÿ8Ò¨½È1

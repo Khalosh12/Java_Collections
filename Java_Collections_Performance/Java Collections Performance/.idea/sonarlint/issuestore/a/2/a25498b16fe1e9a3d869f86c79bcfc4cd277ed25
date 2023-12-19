@@ -1,0 +1,37 @@
+
+2
+java:S1700
+"Rename field "vector"(Ÿõèñ8×È1
+‚
+java:S1149
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ÿõèñ8«×È1
+F	java:S106"+Replace this use of System.out by a logger.(Óş¶8¯×È1
+G	java:S106"+Replace this use of System.out by a logger.(›‹²ß8²×È1
+G	java:S106"+Replace this use of System.out by a logger.(ÇÏŸ»8´×È1
+G	java:S106!"+Replace this use of System.out by a logger.(ì”¦8Á×È1
+F	java:S106'"+Replace this use of System.out by a logger.(ÿ  '8Ä×È1
+G	java:S106,"+Replace this use of System.out by a logger.(ùóÜİ8Æ×È1
+W
+java:S18540"5Remove this useless assignment to local variable "b".(¦‹»…ùÿÿÿÿ8Ñ×È1
+H
+java:S14810"&Remove this unused "b" local variable.(¦‹»…ùÿÿÿÿ8Ó×È1
+L	java:S1061"+Replace this use of System.out by a logger.(•ª·Šûÿÿÿÿ8Ô×È1
+G	java:S1066"+Replace this use of System.out by a logger.(µÊÕù8á×È1
+W
+java:S1854:"5Remove this useless assignment to local variable "b".(¯Æ½âøÿÿÿÿ8â×È1
+H
+java:S1481:"&Remove this unused "b" local variable.(¯Æ½âøÿÿÿÿ8ä×È1
+L	java:S106;"+Replace this use of System.out by a logger.(­Ë†šùÿÿÿÿ8ä×È1
+W
+java:S1854?"5Remove this useless assignment to local variable "b".(¶ª¿Öúÿÿÿÿ8å×È1
+H
+java:S1481?"&Remove this unused "b" local variable.(¶ª¿Öúÿÿÿÿ8ñ×È1
+L	java:S106@"+Replace this use of System.out by a logger.(­¸ª·ùÿÿÿÿ8ò×È1
+W
+java:S1854D"5Remove this useless assignment to local variable "b".(¯ˆåäúÿÿÿÿ8ó×È1
+H
+java:S1481D"&Remove this unused "b" local variable.(¯ˆåäúÿÿÿÿ8ô×È1
+L	java:S106E"+Replace this use of System.out by a logger.(¤ùØ£úÿÿÿÿ8ô×È1
+L	java:S106K"+Replace this use of System.out by a logger.(±ğù·ıÿÿÿÿ8÷×È1
+F	java:S106P"+Replace this use of System.out by a logger.(ñ ƒ%8ù×È1
+L	java:S106Q"+Replace this use of System.out by a logger.(ä§ƒâşÿÿÿÿ8ú×È1

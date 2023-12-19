@@ -1,0 +1,10 @@
+
+z
+java:S1192"XDefine a constant instead of duplicating this literal "|--------------------|" 11 times.(Ë­™ºüÿÿÿÿ8¹ ¥È1
+L
+java:S1121¯".Extract the assignment out of this expression.(Ê„ç‡8º ¥È1
+[
+java:S1854¯"=Remove this useless assignment to local variable "selection".(Ê„ç‡8ã ¥È1
+L	java:S106"+Replace this use of System.out by a logger.(Ë­™ºüÿÿÿÿ8ä ¥È1
+T
+java:S6126"2Replace this String concatenation with Text block.(Ë­™ºüÿÿÿÿ8å ¥È1
